@@ -1,0 +1,18 @@
+# OS
+.DS_Store
+
+# editor
+.code
+.idea
+vetur.config.js
+.vscode
+.go-version
+
+# docker
+.docker/mysql/data
+
+!.gitkeep
+
+# env
+.env
+.envrc
