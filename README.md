@@ -2,7 +2,8 @@
 
 Rundeck APIのクライアントライブラリ
 
-# APIs
+# 対応API
+[Rundeck API](https://docs.rundeck.com/docs/api/rundeck-api.html)
 
 ## Jobs
 
